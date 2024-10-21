@@ -1,6 +1,6 @@
 # <span style="color: #4C0000;">𝑺𝐻𝐴𝑊𝐴𝑍𝐴 - 𝐵𝛩𝑇</span>
 
-<img src="https://telegra.ph/file/ea29ed8256c85c8087501.jpg" alt="Icon Bot" style="border: 2px solid #4CAF50; border-radius: 8px; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="https://telegra.ph/file/15e8e6df535cd570bb3fd.jpg" alt="Icon Bot" style="border: 2px solid #4CAF50; border-radius: 8px; display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 ## <span style="color: #4CAF50;">الوصف</span>
 <span style="color: #555;">بوت واتساب يعمل باعلي تقنيات الذكاء الاصطناعي</span>
